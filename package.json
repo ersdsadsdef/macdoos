@@ -1,0 +1,34 @@
+{
+  "name": "macdoos",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ersdsadsdef/macdoos"
+  },
+  "website": "https://github.com/ersdsadsdef/macdoos.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "ersdsadsdef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersdsadsdef/macdoos/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/ersdsadsdef/macdoos#readme",
+  "dependencies": {
+    "windosdoos": "1.0.2",
+    "liunxdoos": "1.0.2"
+  }
+}
